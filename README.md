@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I can play cello, I've conducted a full-size orchectra, I'm able to drink 10L of beer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunRadish&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunRadish&show_icons=true&theme=cobalt)
