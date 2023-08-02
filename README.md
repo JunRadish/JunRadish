@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - Buy me beer! 🍺🍺🍺 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunRadish&show_icons=true&theme=material-palenight)
+![angry](https://github.com/JunRadish/JunRadish/assets/50093373/102908ef-a187-4fe0-b9ce-ffba983e777c)
